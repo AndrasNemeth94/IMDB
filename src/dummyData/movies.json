@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "img": "gladiator.png",
+    "genre": "10",
+    "title": "The Gladiator",
+    "localdate": "2000-1-01",
+    "description": "Acient story about a roman soldier who got backstabbed by the system and becomes a Gladiator.",
+    "rating": "9.1"
+  },
+  {
+    "id": "2",
+    "img": "donniedarko.jpg",
+    "genre": "4",
+    "title": "Donnie Darko",
+    "localdate": "1999-7-05",
+    "description": [
+      "Donnie is an average teenager, except he constantly encounters a back-chilling bunny whos talking to him.",
+      "The rest is on you, find out what is it whispering about."
+    ],
+    "rating": "8.9"
+  },
+  {
+    "id": "3",
+    "img": "avp.jpg",
+    "genre": "5",
+    "title": "Alien vs Predator",
+    "localdate": "2007-4-22",
+    "description": [
+      "Skull bashing, lots of green blood, and a well-known character which provied a terrifying opponent for Arnie.",
+      "Get involved in the war of bloodthirst and hunter.instinct."
+    ],
+    "rating": "7.4"
+  },
+  {
+    "id": "4",
+    "img": "bleach.jpg",
+    "genre": "6",
+    "title": "Bleach the movie",
+    "localdate": "2008-07-05",
+    "description": [
+      "Before the terrible Netflix adaptation, the was a short relief called Bleach the movie.",
+      "Get your kimonos, katanas, or just a huge bowl of popcorn and get in the fight between Ichigo and Aizen once more."
+    ],
+    "rating": "9.0"
+  },
+  {
+    "id": "5",
+    "img": "thefault.jpg",
+    "genre": "3",
+    "title": "The fault in our stars",
+    "localdate": "2015-10-03",
+    "description": [
+      "Do you like crying in front of the screen with a bowl of ice cream in your hands? Me neither.",
+      "Also if you have a girlfriend, and you want to satisfy her at least once a year, watch this."
+    ],
+    "rating": "6.5"
+  },
+  {
+    "id": "6",
+    "img": "faftd.jpg",
+    "genre": "5",
+    "title": "F&F: Tokyo Drift",
+    "localdate": "2006-7-27",
+    "description": [
+      "We all know Vin Diesel. We all know the series. Its pure car porn, now placed in the capital of Japan,",
+      "sparkled with a pinch of white-boyness, yakuza, half-japanese girl for the obligatory romance-plot, and of course,",
+      "a load of tuned cars with NOS packages under the backseat. Fasten your seatbelts, and get ready for horizontal car sliding."
+    ],
+    "rating": "8.5"
+  }
+]

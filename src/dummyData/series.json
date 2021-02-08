@@ -1,0 +1,69 @@
+[
+  {
+    "id": "1",
+    "img":"houseofcards.jpg",
+    "title": "House of Cards",
+    "localdate": "2012-5-08",
+    "describtion": "This series is very cool, dramatic and shit...",
+    "rating": "8.7",
+    "isfinished": "false"
+  },
+  {
+    "id": "2",
+    "img":"gameofthrones.jpg",
+    "title": "Game of Thrones",
+    "localdate": "2010-1-11",
+    "describtion": [
+      "Medieval ballad with lots of blood and sex",
+      "from the pencil of the great (aka fat) bestseller-writer George RR Martin."
+    ],
+    "rating": "7.2",
+    "isfinished": "true"
+  },
+  {
+    "id": "3",
+    "img":"supernatural.jpg",
+    "title": "Supernatural",
+    "localdate": "2005-2-03",
+    "describtion": [
+      "As the name said, supernatural events happening around the globe",
+      "young brothers Dean and Sam are on their way to solve them."
+    ],
+    "rating": "9.0",
+    "isfinished": "false"
+  },
+  {
+    "id": "4",
+    "img":"ncis.jpg",
+    "title": "NCIS",
+    "localdate": "207-8-16",
+    "describtion": "Spec ops from NY city, loaded guns, bloodrush, nothing else to say about it. ",
+    "rating": "6.7",
+    "isfinished": "true"
+  },
+  {
+    "id": "5",
+    "img":"wire.jpg",
+    "title": "The Wire",
+    "localdate": "2009-2-25",
+    "describtion": [
+      "Story about undercover cops and drug dealing. The dealers are minorities from Detroit,",
+      "not a single chance to get bored during this action-packed drama."
+    ],
+    "rating": "8.7",
+    "isfinished": "true"
+  },
+  {
+    "id": "6",
+    "img":"grimm.jpg",
+    "title": "Grimm",
+    "localdate": "2010-1-03",
+    "describtion": [
+      "Remember when you got spooked by your parents who read bedtime stories about",
+      "Red Riding Hood, the Wolf and the grandma? Prepare to feel the same while you watching this series with handsome actors and",
+      "well-known stories from the past."
+    ],
+    "rating": "8.7",
+    "isfinished": "false"
+  }
+]

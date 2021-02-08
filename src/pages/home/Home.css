@@ -1,0 +1,28 @@
+.home-container {
+  display: inline-block;
+  padding-top: 5vw;
+  min-width: 80%;
+  min-height: 95vh;
+  padding: 20;
+  background-color: none;
+  border: none;
+  /* background-color: green; */
+}
+.h1-mov {
+  display: inline-block;
+  position: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.separator {
+  width: 300px;
+  border: 1px solid gold;
+}
+p {
+  color: white;
+}
+
+@media (max-width: 600px) {
+  .home-container {
+    padding-top: 40px;
+  }
+}

@@ -1,0 +1,31 @@
+.nav-links {
+  display: flex;
+  width: 20%;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  list-style: none;
+  color: white;
+}
+.nav-link {
+  color: white;
+  font-weight: bold;
+  display: inline-flex;
+  background-color: #202020;
+  padding: 5px;
+  text-decoration: none;
+}
+
+.nav-link-element:hover {
+  background-color: white;
+  color: black;
+}
+
+@media (max-width: 600px) {
+  .nav-link {
+    font-size: 12px;
+  }
+  .nav-links {
+    display: none;
+  }
+}

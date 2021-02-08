@@ -1,0 +1,12 @@
+.App {
+  height: 100%;
+}
+.app-container {
+  display: block;
+  width: 100%;
+  min-height: 100vh;
+  background-color: black;
+  padding: 2px;
+  text-align: center;
+  align-content: center;
+}

@@ -1,0 +1,47 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  width: auto;
+  background-color: transparent;
+}
+
+.search {
+  width: 30%;
+  border: none;
+  height: 25px;
+  padding-left: 15px;
+  outline: 0;
+  background-color: transparent;
+  color: white;
+}
+.search:hover,
+.search:focus {
+  border-bottom: 1.5px solid gold;
+}
+.search-icon {
+  position: absolute;
+  top: 6px;
+  left: 34%;
+  width: 14px;
+  cursor: pointer;
+}
+.clear-icon {
+  position: absolute;
+  top: 8px;
+  left: 65%;
+  right: 6px;
+  width: 15px;
+  height: 15px;
+  cursor: pointer;
+}
+
+@media (max-width: 600px) {
+  .wrapper {
+    width: 300px;
+    left: 12vw;
+  }
+  .search-icon {
+    left: 30%;
+  }
+}
